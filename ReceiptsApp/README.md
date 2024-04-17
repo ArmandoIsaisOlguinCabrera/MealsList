@@ -1,5 +1,8 @@
 
 # YAPE Prueba Tecnica
+## Video
+
+[![Video de YouTube](https://img.youtube.com/vi/djbKB9uOP-s/0.jpg)](https://youtu.be/djbKB9uOP-s)
 
 Esta app es nativa escrita de Swift utilizando solo frameworks de apple como MapKit, UIKit y Foundation,
 consta de 3 pantallas anidadas en un Navigation Controller.
@@ -182,4 +185,5 @@ manejar el resultado de la peticion ya sea exitosa o erronea.
 
 
 ## GIF
-![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdjcnZyM2s5bnM2a3dtMG8yb2R3NjhleGwyZHRzcmtweGF4Y3RrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7v2Eq0dg7un8do4O91/giphy.gif)
+![GIF de ejemplo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdjcnZyM2s5bnM2a3dtMG8yb2R3NjhleGwyZHRzcmtweGF4Y3RrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7v2Eq0dg7un8do4O91/giphy.gif)
+
